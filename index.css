@@ -241,4 +241,19 @@ footer p{
         font-size: 20px;
         text-align: center;
     }
+    header div.whatsapp{
+        width: 10%;
+        position: fixed;
+        right: 2%;
+    }
+    
+    header div.whatsapp img{
+        width: 99.7%;
+    }
+    header div.Autorizado{
+        width: 25%;
+        font-size: 14px;
+        text-align: center;
+        margin-top: -10px;
+    }
 }
